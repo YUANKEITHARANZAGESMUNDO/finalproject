@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841829714069",
+    "project_id": "anchorpoint-f7e77",
+    "storage_bucket": "anchorpoint-f7e77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841829714069:android:b1ac91a70dc10d433b739c",
+        "android_client_info": {
+          "package_name": "com.example.anchorpoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmp4QV52em1FbLtSYpg8coXoMnltZ2gXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
